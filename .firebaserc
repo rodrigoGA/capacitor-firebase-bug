@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "smart-buddy-prod": {
+      "hosting": {
+        "app": [
+          "smart-buddy"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "smart-buddy-prod"
+  }
+}

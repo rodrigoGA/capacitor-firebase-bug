@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "128084370726",
+    "project_id": "smart-buddy-prod",
+    "storage_bucket": "smart-buddy-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128084370726:android:bd2768573934c0bdb5cde7",
+        "android_client_info": {
+          "package_name": "io.smartbuddy.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128084370726-b4200kn62qk9olep9vmk061jurl2g059.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7jZg9iosFyRASY8mhbwOSPBcSSZJPpPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128084370726-7sobgupojnj7llm5a60sca2aqgtpp69j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128084370726:android:be1761f121e970f5b5cde7",
+        "android_client_info": {
+          "package_name": "smartbuddy.app.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128084370726-b4200kn62qk9olep9vmk061jurl2g059.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7jZg9iosFyRASY8mhbwOSPBcSSZJPpPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128084370726-7sobgupojnj7llm5a60sca2aqgtpp69j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">smart-buddy-ionic</string>
+    <string name="title_activity_main">smart-buddy-ionic</string>
+    <string name="package_name">io.ionic.starter</string>
+    <string name="custom_url_scheme">io.ionic.starter</string>
+
+    <string name="facebook_app_id">735833858277828</string>
+    <string name="fb_login_protocol_scheme">fb735833858277828</string>
+    <string name="facebook_client_token">e546f65490ccbaee79fafd9c23a213a4</string>
+</resources>
